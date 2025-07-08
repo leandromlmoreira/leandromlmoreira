@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/leandromlmoreira/leandromlmoreira/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="left">
   <a href="https://discord.gg/9u6PDYF5" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
