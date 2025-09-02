@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-<p align="left">Olá! Sou o Leandro, 27 anos, programador há quatro anos. Nos últimos três anos, venho me especializando no desenvolvimento de scripts e funcionalidades para RedM e FiveM.</p>
+<p align="left">Olá! Me chamo Leandro, 27 anos, programador há quatro anos. Nos últimos três anos, venho me especializando no desenvolvimento de scripts e funcionalidades para RedM e FiveM.</p>
 
 ## Características
 
