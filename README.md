@@ -46,14 +46,14 @@
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandromlmoreira&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromlmoreira&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandromlmoreira&show_icons=true&theme=dark&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromlmoreira&layout=compact&langs_count=7&theme=dark&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 </div>
 
 ## Sequência de Contribuições
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leandromlmoreira&theme=dark&background=000&border=30A3DC&stroke=30A3DC&ring=30A3DC&fire=30A3DC&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF&dates=FFF"/>
+  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=leandromlmoreira&theme=dark&background=000&border=30A3DC&stroke=30A3DC&ring=30A3DC&fire=30A3DC&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF&dates=FFF"/>
 </div>
 
 ## Contato
