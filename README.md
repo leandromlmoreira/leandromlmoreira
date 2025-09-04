@@ -53,7 +53,7 @@
 ## Sequência de Contribuições
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=leandromlmoreira&theme=bear&background=000&border=30A3DC&dates=FFF"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leandromlmoreira&theme=dark&background=000&border=30A3DC&stroke=30A3DC&ring=30A3DC&fire=30A3DC&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF&dates=FFF"/>
 </div>
 
 ## Contato
