@@ -56,8 +56,6 @@
   <img height="180em" src="https://streak-stats.demolab.com/?user=leandromlmoreira&theme=bear&background=000&border=30A3DC&dates=FFF"/>
 </div>
 
-
-
 ## Contato
 
 <div align="center">
