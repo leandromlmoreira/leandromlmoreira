@@ -1,16 +1,11 @@
-# Leandro Macedo (leandromlmoreira)
-
 <div align="center">
   <a href="https://discord.gg/9u6PDYF5" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
-
 ## Sobre Mim
 
 <p align="left">Olá! Me chamo Leandro, 27 anos, programador há quatro anos. Nos últimos três anos, venho me especializando no desenvolvimento de scripts e funcionalidades para RedM e FiveM.</p>
-
-## Características
 
 <p align="left">✨ Criando (e caçando) bugs desde 2020<br><br>📚 Atualmente aprendendo Java, Lua (RedM/VORP) e TypeScript<br><br>🎯 Objetivos: lançar meu primeiro jogo indie fullstack e contribuir para projetos open‑source<br><br>🎲 Fun fact: Entusiasta em tecnologia!</p>
 
