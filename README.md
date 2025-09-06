@@ -3,6 +3,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
+
 ## Sobre Mim
 
 <p align="left">Olá! Me chamo Leandro, 27 anos, programador há quatro anos. Nos últimos três anos, venho me especializando no desenvolvimento de scripts e funcionalidades para RedM e FiveM.</p>
