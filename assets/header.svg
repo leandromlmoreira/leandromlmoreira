@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Leandro Macedo — Full Stack &amp; AI Engineer">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#fcee0a" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#0a0a0b" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0a0a0b" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <path d="M0 0H1160L1200 40V380H40L0 340Z"/>
+    </clipPath>
+    <style>
+      .mono { font-family: ui-monospace, "JetBrains Mono", "Cascadia Code", Consolas, "Courier New", monospace; }
+      .sans { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+      .name { font-weight: 900; letter-spacing: -1px; }
+      .g1 { animation: g1 6s steps(1) infinite; }
+      .g2 { animation: g2 6s steps(1) infinite; }
+      @keyframes g1 {
+        0%, 88%, 100% { transform: translate(0, 0); opacity: 0; }
+        89% { transform: translate(-6px, 0); opacity: .9; }
+        91% { transform: translate(5px, 0); opacity: .9; }
+        93% { transform: translate(-2px, 0); opacity: .9; }
+        95% { opacity: 0; }
+      }
+      @keyframes g2 {
+        0%, 88%, 100% { transform: translate(0, 0); opacity: 0; }
+        89% { transform: translate(6px, 0); opacity: .8; }
+        92% { transform: translate(-4px, 0); opacity: .8; }
+        95% { opacity: 0; }
+      }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .scan { animation: scan 5s linear infinite; }
+      @keyframes scan { from { transform: translateY(-40px); } to { transform: translateY(420px); } }
+      .type { animation: type 3.2s steps(34) 0.4s both; }
+      @keyframes type { from { width: 0; } to { width: 560px; } }
+      .pulse { animation: pulse 2s ease-in-out infinite; }
+      @keyframes pulse { 50% { opacity: .35; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="380" fill="#0a0a0b"/>
+    <rect width="1200" height="380" fill="url(#grid)"/>
+    <!-- linha de varredura -->
+    <rect class="scan" x="0" y="0" width="1200" height="2" fill="#fcee0a" opacity="0.18"/>
+
+    <!-- bloco amarelo lateral -->
+    <path d="M0 0H14V380H0Z" fill="#fcee0a"/>
+    <text x="7" y="200" class="mono" font-size="11" fill="#0a0a0b" font-weight="700" letter-spacing="3" text-anchor="middle" transform="rotate(-90 7 200)">RJ // BRASIL</text>
+
+    <!-- cabeçalho de sistema -->
+    <text x="64" y="62" class="mono" font-size="14" fill="#fcee0a" letter-spacing="4">// PERFIL · DESENVOLVEDOR</text>
+    <circle cx="1080" cy="57" r="5" fill="#00f0ff" class="pulse"/>
+    <text x="1094" y="62" class="mono" font-size="13" fill="#8d8d93" letter-spacing="2">ONLINE</text>
+    <path d="M64 80H1136" stroke="#fcee0a" stroke-opacity=".35"/>
+
+    <!-- nome com glitch -->
+    <g class="sans name" font-size="74">
+      <text x="60" y="178" fill="#00f0ff" class="g1">LEANDRO MACEDO</text>
+      <text x="60" y="178" fill="#ff003c" class="g2">LEANDRO MACEDO</text>
+      <text x="60" y="178" fill="#f5f5f0">LEANDRO MACEDO</text>
+    </g>
+
+    <!-- cargo em faixa amarela -->
+    <path d="M60 212H590L610 232V262H80L60 242Z" fill="#fcee0a"/>
+    <text x="84" y="246" class="sans" font-size="21" font-weight="800" fill="#0a0a0b" letter-spacing="3">FULL STACK &amp; AI ENGINEER</text>
+
+    <!-- terminal -->
+    <text x="64" y="318" class="mono" font-size="19" fill="#8d8d93">$</text>
+    <svg x="86" y="296" height="30" width="560" class="type" overflow="hidden">
+      <text x="0" y="22" class="mono" font-size="19" fill="#f5f5f0">agentes de IA · web 3D · produtos web</text>
+    </svg>
+    <rect x="648" y="302" width="11" height="20" fill="#fcee0a" class="cursor"/>
+
+    <!-- painel direito -->
+    <g transform="translate(884 120)">
+      <path d="M0 0H252V150L232 170H0Z" fill="none" stroke="#fcee0a" stroke-opacity=".6"/>
+      <text x="18" y="30" class="mono" font-size="12" fill="#fcee0a" letter-spacing="3">STACK.PRINCIPAL</text>
+      <text x="18" y="60" class="mono" font-size="15" fill="#f5f5f0">PHP · WordPress</text>
+      <text x="18" y="86" class="mono" font-size="15" fill="#f5f5f0">TypeScript · React</text>
+      <text x="18" y="112" class="mono" font-size="15" fill="#f5f5f0">Three.js · Node.js</text>
+      <text x="18" y="138" class="mono" font-size="15" fill="#f5f5f0">MCP · Claude SDK</text>
+      <path d="M208 170L232 146" stroke="#fcee0a"/>
+    </g>
+    <text x="1136" y="352" class="mono" font-size="14" fill="#fcee0a" text-anchor="end" letter-spacing="2">leandromaiscedo.dev ↗</text>
+  </g>
+  <path d="M0.5 0.5H1159.5L1199.5 40.5V379.5H40.5L0.5 339.5Z" fill="none" stroke="#fcee0a" stroke-opacity=".5"/>
+</svg>

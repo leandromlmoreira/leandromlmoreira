@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="STACK">
+  <path d="M0 10H195L215 30V54H0Z" fill="#fcee0a"/>
+  <text x="18" y="42" font-family='ui-monospace, "JetBrains Mono", "Cascadia Code", Consolas, monospace' font-size="16" font-weight="700" fill="#0a0a0b" letter-spacing="2">03</text>
+  <text x="58" y="42" font-family='"Segoe UI", "Helvetica Neue", Arial, sans-serif' font-size="22" font-weight="900" fill="#0a0a0b" letter-spacing="4">STACK</text>
+  <path d="M229 32H1160" stroke="#fcee0a" stroke-opacity=".5" stroke-dasharray="2 6"/>
+  <rect x="1168" y="26" width="12" height="12" fill="none" stroke="#fcee0a"/>
+  <rect x="1186" y="26" width="12" height="12" fill="#fcee0a"/>
+</svg>

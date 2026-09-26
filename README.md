@@ -1,66 +1,86 @@
-## Sobre Mim
+<a href="https://www.leandromaiscedo.dev">
+  <img src="./assets/header.svg" alt="Leandro Macedo — Full Stack &amp; AI Engineer" width="100%" />
+</a>
 
-<p align="left">Olá! Me chamo Leandro, 27 anos, programador há quatro anos. Nos últimos três anos, venho me especializando no desenvolvimento de scripts e funcionalidades para RedM e FiveM.</p>
+<p align="center">
+  <a href="https://www.leandromaiscedo.dev"><img src="https://img.shields.io/badge/PORTFÓLIO-leandromaiscedo.dev-fcee0a?style=for-the-badge&labelColor=0a0a0b" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/leandromlmoreiradev/"><img src="https://img.shields.io/badge/LINKEDIN-leandromlmoreiradev-fcee0a?style=for-the-badge&logo=linkedin&logoColor=fcee0a&labelColor=0a0a0b" alt="LinkedIn" /></a>
+  <a href="mailto:leandromlmoreira@hotmail.com"><img src="https://img.shields.io/badge/E--MAIL-fale_comigo-fcee0a?style=for-the-badge&logo=maildotru&logoColor=fcee0a&labelColor=0a0a0b" alt="E-mail" /></a>
+</p>
 
-<p align="left">✨ Criando (e caçando) bugs desde 2020<br><br>📚 Atualmente aprendendo Java, Lua (RedM/VORP) e TypeScript<br><br>🎯 Objetivos: lançar meu primeiro jogo indie fullstack e contribuir para projetos open‑source<br><br>🎲 Fun fact: Entusiasta em tecnologia!</p>
+<br />
 
-## Tecnologias
+<img src="./assets/sec-sobre.svg" alt="01 Sobre" width="100%" />
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+Desenvolvedor full stack. Construo produtos web **do banco de dados até a tela**: plataformas com pagamentos, integrações e LGPD, e **agentes de IA que operam ferramentas de verdade** via MCP.
 
+```ts
+const leandro = {
+  cargo:      "Desenvolvedor Full Stack @ LVES · Lojas Virtuais e Sites",
+  foco:       ["Agentes de IA com MCP", "Web 3D", "Plataformas com pagamentos"],
+  agora:      "plataforma de assinaturas com Stripe + PIX, LGPD e gamificação",
+  estudando:  ["Rust", "Arquitetura de dados", "IA generativa"],
+  local:      "Iguaba Grande, RJ · remoto ou híbrido",
+};
+```
 
-## Estatísticas do GitHub
+<br />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandromlmoreira&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromlmoreira&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-</div>
+<img src="./assets/sec-projetos.svg" alt="02 Projetos" width="100%" />
 
-## Sequência de Contribuições
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/leandromlmoreira/vicecut"><img src="./assets/card-vicecut.svg" alt="ViceCut — cortes automáticos de vídeo" width="100%" /></a></td>
+    <td width="50%"><a href="https://www.leandromaiscedo.dev"><img src="./assets/card-jarvis.svg" alt="Jarvis — assistente de voz com IA" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://www.leandromaiscedo.dev"><img src="./assets/card-portfolio.svg" alt="Portfólio 3D em Three.js" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/leandromlmoreira/rust-fullstack-carteira-investimentos"><img src="./assets/card-wallet.svg" alt="Wallet Live — carteira de investimentos em Rust" width="100%" /></a></td>
+  </tr>
+</table>
 
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=leandromlmoreira&theme=bear&background=000&border=30A3DC&dates=FFF"/>
-</div>
+<br />
 
+<img src="./assets/sec-stack.svg" alt="03 Stack" width="100%" />
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,wordpress,nodejs,python,java,rust,lua,cs&theme=dark" alt="Back-end" /><br />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,threejs,html,css&theme=dark" alt="Front-end" /><br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,docker,aws,git,blender&theme=dark" alt="Dados e infra" />
+</p>
 
-## Contato
+<br />
 
-<div align="center">
-  <a href="https://discord.gg/9u6PDYF5" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/leandromaiscedo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/leandromacedolealmoreira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://github.com/leandromlmoreira" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-</div>
+<img src="./assets/sec-formacao.svg" alt="04 Certificações" width="100%" />
+
+| Bootcamps | Formações |
+|---|---|
+| **Rust AI Developer** · Santander 2026 | **TypeScript Fullstack Developer** |
+| **Java com AWS** · GFT Start #7 | **SQL Database Specialist** |
+| **IA e Arquitetura de Dados** · Aceleração Microsoft | **React Native Developer** |
+| | **Lógica de Programação** |
+
+<br />
+
+<img src="./assets/sec-atividade.svg" alt="05 Atividade" width="100%" />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=leandromlmoreira&locale=pt_BR&hide_border=true&background=0A0A0B&ring=FCEE0A&fire=FF003C&currStreakNum=F5F5F0&sideNums=FCEE0A&currStreakLabel=FCEE0A&sideLabels=8D8D93&dates=8D8D93&stroke=2A2A2E" alt="Sequência de contribuições" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandromlmoreira/leandromlmoreira/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/leandromlmoreira/leandromlmoreira/output/snake-light.svg" alt="Cobrinha comendo o gráfico de contribuições" width="100%" />
+</picture>
+
+<br />
+
+<img src="./assets/sec-contato.svg" alt="06 Contato" width="100%" />
+
+<p align="center">
+  Tem um projeto, uma vaga ou uma ideia? Me chama.<br /><br />
+  <a href="https://www.linkedin.com/in/leandromlmoreiradev/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0b?style=for-the-badge&logo=linkedin&logoColor=fcee0a" alt="LinkedIn" /></a>
+  <a href="mailto:leandromlmoreira@hotmail.com"><img src="https://img.shields.io/badge/E--mail-0a0a0b?style=for-the-badge&logo=maildotru&logoColor=fcee0a" alt="E-mail" /></a>
+  <a href="https://www.instagram.com/leandromaiscedo"><img src="https://img.shields.io/badge/Instagram-0a0a0b?style=for-the-badge&logo=instagram&logoColor=fcee0a" alt="Instagram" /></a>
+  <a href="https://www.leandromaiscedo.dev"><img src="https://img.shields.io/badge/Portfólio-fcee0a?style=for-the-badge&logo=googlechrome&logoColor=0a0a0b" alt="Portfólio" /></a>
+</p>
