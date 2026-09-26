@@ -4,8 +4,8 @@
   <path d="M0.5 0.5H551.5L579.5 28.5V259.5H28.5L0.5 231.5Z" fill="none" stroke="#fcee0a" stroke-opacity=".45"/>
   <rect x="0" y="0" width="6" height="232" fill="#fcee0a"/>
   <text x="28" y="40" font-family='ui-monospace, "JetBrains Mono", "Cascadia Code", Consolas, monospace' font-size="13" fill="#fcee0a" letter-spacing="3">03 // WEB 3D · WEBGL</text>
-  <circle cx="460" cy="35" r="4" fill="#00f0ff" class="hov"/>
-  <text x="472" y="40" font-family='ui-monospace, "JetBrains Mono", "Cascadia Code", Consolas, monospace' font-size="12" fill="#8d8d93" letter-spacing="2">PÚBLICO</text>
+  <circle cx="460" cy="35" r="4" fill="#ff003c" class="hov"/>
+  <text x="472" y="40" font-family='ui-monospace, "JetBrains Mono", "Cascadia Code", Consolas, monospace' font-size="12" fill="#8d8d93" letter-spacing="2">PRIVADO</text>
   <text x="28" y="88" font-family='"Segoe UI", "Helvetica Neue", Arial, sans-serif' font-size="36" font-weight="900" fill="#f5f5f0" letter-spacing="-0.5">Portfólio 3D</text>
   <text x="28" y="124" font-family='"Segoe UI", "Helvetica Neue", Arial, sans-serif' font-size="16" fill="#b9b9bf">Um servidor em chamas consertado a cada seção: tela de CRT</text>
   <text x="28" y="148" font-family='"Segoe UI", "Helvetica Neue", Arial, sans-serif' font-size="16" fill="#b9b9bf">desenhada em tempo real, explosão e skill tree interativa.</text>
