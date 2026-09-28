@@ -30,12 +30,24 @@ const leandro = {
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/leandromlmoreira/vicecut"><img src="./assets/card-vicecut.svg" alt="ViceCut — cortes automáticos de vídeo" width="100%" /></a></td>
+    <td width="50%"><a href="https://commit-city-lm.vercel.app"><img src="./assets/card-commit-city.svg" alt="Commit City — o último ano no GitHub vira uma cidade 3D" width="100%" /></a></td>
+    <td width="50%"><a href="https://recall-mcp-lm.vercel.app"><img src="./assets/card-recall.svg" alt="Recall — memória persistente para agentes de IA via MCP" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://vicecut-brown.vercel.app"><img src="./assets/card-vicecut.svg" alt="ViceCut — cortes automáticos de vídeo" width="100%" /></a></td>
     <td width="50%"><a href="https://www.leandromaiscedo.dev"><img src="./assets/card-jarvis.svg" alt="Jarvis — assistente de voz com IA" width="100%" /></a></td>
   </tr>
   <tr>
+    <td width="50%"><a href="https://github.com/leandromlmoreira/spring-anatomy"><img src="./assets/card-spring-anatomy.svg" alt="Spring Anatomy — padrões de projeto numa API Spring Boot real" width="100%" /></a></td>
+    <td width="50%"><a href="https://caixa-alta-lm.vercel.app"><img src="./assets/card-caixa-alta.svg" alt="Caixa Alta — finanças pessoais como um jornal diário" width="100%" /></a></td>
+  </tr>
+  <tr>
     <td width="50%"><a href="https://www.leandromaiscedo.dev"><img src="./assets/card-portfolio.svg" alt="Portfólio 3D em Three.js" width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/leandromlmoreira/rust-fullstack-carteira-investimentos"><img src="./assets/card-wallet.svg" alt="Wallet Live — carteira de investimentos em Rust" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/leandromlmoreira/rust-wallet-live"><img src="./assets/card-wallet.svg" alt="Wallet Live — carteira de investimentos em Rust" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://prompt-atlas-lm.vercel.app"><img src="./assets/card-prompt-atlas.svg" alt="Prompt Atlas — mapa navegável de system prompts de IA" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/leandromlmoreira/vaga-match"><img src="./assets/card-vaga-match.svg" alt="Vaga Match — extensão que compara o currículo com a vaga" width="100%" /></a></td>
   </tr>
 </table>
 

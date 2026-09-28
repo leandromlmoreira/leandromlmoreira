@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="260" viewBox="0 0 580 260" role="img" aria-label="Commit City">
+  <style>.hov{animation:p 3s ease-in-out infinite}@keyframes p{50%{opacity:.4}}</style>
+  <path d="M0 0H552L580 28V260H28L0 232Z" fill="#0f0f11"/>
+  <path d="M0.5 0.5H551.5L579.5 28.5V259.5H28.5L0.5 231.5Z" fill="none" stroke="#fcee0a" stroke-opacity=".45"/>
+  <rect x="0" y="0" width="6" height="232" fill="#fcee0a"/>
+  <text x="28" y="40" font-family='ui-monospace, "JetBrains Mono", "Cascadia Code", Consolas, monospace' font-size="13" fill="#fcee0a" letter-spacing="3">01 // 3D · THREE.JS</text>
+  <circle cx="460" cy="35" r="4" fill="#ff003c" class="hov"/>
+  <text x="472" y="40" font-family='ui-monospace, "JetBrains Mono", "Cascadia Code", Consolas, monospace' font-size="12" fill="#8d8d93" letter-spacing="2">PRIVADO</text>
+  <text x="28" y="88" font-family='"Segoe UI", "Helvetica Neue", Arial, sans-serif' font-size="36" font-weight="900" fill="#f5f5f0" letter-spacing="-0.5">Commit City</text>
+  <text x="28" y="124" font-family='"Segoe UI", "Helvetica Neue", Arial, sans-serif' font-size="16" fill="#b9b9bf">O último ano no GitHub vira uma cidade 3D à beira-mar.</text>
+  <text x="28" y="148" font-family='"Segoe UI", "Helvetica Neue", Arial, sans-serif' font-size="16" fill="#b9b9bf">Obra animada, shaders próprios, carros e pedestres na</text>
+  <text x="28" y="172" font-family='"Segoe UI", "Helvetica Neue", Arial, sans-serif' font-size="16" fill="#b9b9bf">GPU e qualidade que se adapta ao aparelho.</text>
+  <g transform="translate(28 206)"><rect width="90.8" height="26" fill="none" stroke="#fcee0a" stroke-opacity=".55"/><text x="45.4" y="17.5" text-anchor="middle" font-family='ui-monospace, "JetBrains Mono", "Cascadia Code", Consolas, monospace' font-size="13" fill="#f5f5f0">Three.js</text></g><g transform="translate(126.8 206)"><rect width="65" height="26" fill="none" stroke="#fcee0a" stroke-opacity=".55"/><text x="32.5" y="17.5" text-anchor="middle" font-family='ui-monospace, "JetBrains Mono", "Cascadia Code", Consolas, monospace' font-size="13" fill="#f5f5f0">WebGL</text></g><g transform="translate(199.8 206)"><rect width="108" height="26" fill="none" stroke="#fcee0a" stroke-opacity=".55"/><text x="54" y="17.5" text-anchor="middle" font-family='ui-monospace, "JetBrains Mono", "Cascadia Code", Consolas, monospace' font-size="13" fill="#f5f5f0">TypeScript</text></g><g transform="translate(315.8 206)"><rect width="73.6" height="26" fill="none" stroke="#fcee0a" stroke-opacity=".55"/><text x="36.8" y="17.5" text-anchor="middle" font-family='ui-monospace, "JetBrains Mono", "Cascadia Code", Consolas, monospace' font-size="13" fill="#f5f5f0">Vitest</text></g>
+</svg>
